@@ -45,4 +45,4 @@ Note : This profile picture and only account.!
 
 ## My Youtube Channels <img align="left" alt="https://youtube.com/c/kaanxd" width="26px" src="https://cdn.discordapp.com/emojis/718386530808365093.png?v=1" />
 
-[My Youtube Channels](https://www.youtube.com/c/kaanxd)
+[Click](https://www.youtube.com/c/kaanxd)
