@@ -1,4 +1,4 @@
-![Kααɳ](https://www.youtube.com/channel/UC9HFT7vVnIgf_w9kr41OIuA)
+![Kααɳ](https://cdn.discordapp.com/avatars/696407272145813505/a_ac354c9dd361f5f53ef97db28f67059c.gif)
 
 
 <br>
@@ -31,10 +31,10 @@ Hello, I'm a Teen Developer. I know JavaScript, Python, Dbd.js languages.
 ## 🍁 Statistics;
 <p align="center">
   <a href="https://github.com/ArchexDev">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=favixl&layout=compact&theme=material-palenight&langs_count=12" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=favixl&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchexDev&layout=compact&theme=material-palenight&langs_count=12" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArchexDev&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
 	<center> 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=favixl" alt="favixl" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=favixl" alt="Kaan Wiews" /> </p>
 	  </center>
   </a>
 </p>
