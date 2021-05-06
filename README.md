@@ -31,3 +31,12 @@
 	<center> 
   </a>
 </p>
+---------
+	
+Note : This profile picture and only account.!
+
+About Us: We are a team coding bots, coding websites on discord and we have had many projects so far Ghost Bot is our Approved Bot. There is a link for you to add wink
+
+👻 [Ghost Bot İnvite](http://www.ghost-bot.gq/davet)
+
+👻 [Ghost Bot WebSite](http://www.ghost-bot.gq)
