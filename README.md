@@ -42,3 +42,7 @@ Note : This profile picture and only account.!
 👻 [Ghost Bot İnvite](http://www.ghost-bot.gq/davet)
 
 👻 [Ghost Bot WebSite](http://www.ghost-bot.gq)
+
+## My Youtube Channels
+
+<img align="left" alt="https://youtube.com/c/kaanxd" width="26px" src="https://i.pinimg.com/474x/d4/48/2b/d4482ba4e7ebdbff7b8ba73e7d39aceb.jpg" />
