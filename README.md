@@ -14,7 +14,7 @@ Note : This profile picture and only account.!
 **[Archex Development](https://discord.gg/qDsQzjb5gN)**
 
 
-### Languages and Tools;
+### 🛠️ Languages and Tools;
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
@@ -35,7 +35,7 @@ Note : This profile picture and only account.!
 </p>
 <br/>
 	
-## Ghost Bot	
+## 👻 Ghost Bot	
 
 😉 About Us: We are a team coding bots, coding websites on discord and we have had many projects so far Ghost Bot is our Approved Bot. There is a link for you to add.
 
