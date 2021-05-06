@@ -1,18 +1,14 @@
 
-<br>
-<h1>Kaan</h1>
-<a href="https://discord.gg/KMJCshWX4D"> <img width="500" src="" align="right"/>
-
-
-<br> 
-
-- 🌱 Developer 
-- ⚡ Discord Approved Bot Developer :) <br/>
-- 🕊 Ghost & Archex Development
-
-### About me;
+### 🔧 About me;
 	
-Hello, I'm a Teen Developer. I know JavaScript, Python, Dbd.js languages.
+😉 Hello, I'm a Teen Developer. I know JavaScript, Python, Dbd.js languages.
+
+👻 Verified Bot Developer
+
+## 🕊 Discord:
+
+[Ghost Development](https://discord.gg/KMJCshWX4D)
+[Archex Development](https://discord.gg/qDsQzjb5gN)
 
 
 ### Languages and Tools;
@@ -34,5 +30,3 @@ Hello, I'm a Teen Developer. I know JavaScript, Python, Dbd.js languages.
 	<center> 
   </a>
 </p>
-
-## 🕊 Discord:
