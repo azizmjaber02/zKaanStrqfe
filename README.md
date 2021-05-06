@@ -1,5 +1,3 @@
-![Kααɳ](https://cdn.discordapp.com/avatars/696407272145813505/a_ac354c9dd361f5f53ef97db28f67059c.gif)
-
 
 <br>
 <h1>Kaan</h1>
@@ -34,18 +32,7 @@ Hello, I'm a Teen Developer. I know JavaScript, Python, Dbd.js languages.
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchexDev&layout=compact&theme=material-palenight&langs_count=12" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArchexDev&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
 	<center> 
- ---------------------------------------------------------------------------------------
- 🌕 Profile Wiews
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=favixl" alt="Kaan Wiews" /> </p>
-	  </center>
   </a>
 </p>
 
 ## 🕊 Discord:
-
-  <div align="center"><img href="https://github.com/ArchexDev" src="https://discord.c99.nl/widget/theme-2/696407272145813505.png"></div>
-
-<p align="center">
-<a href="https://discord.gg/KMJCshWX4D">
-    <img src="https://cdn.discordapp.com/emojis/818107220566343682.png?v=1%22%3E" alt="Discord" width="80"/>
-  </a>
