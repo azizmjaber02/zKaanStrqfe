@@ -5,6 +5,8 @@
 
 👻 Verified Bot Developer
 
+Note : This profile picture and only account.!
+
 ## 🕊 Discord:
 
 **[Ghost Development](https://discord.gg/KMJCshWX4D)**
@@ -31,11 +33,11 @@
 	<center> 
   </a>
 </p>
----------
+<br/>
 	
-Note : This profile picture and only account.!
+## Ghost Bot	
 
-About Us: We are a team coding bots, coding websites on discord and we have had many projects so far Ghost Bot is our Approved Bot. There is a link for you to add wink
+😉 About Us: We are a team coding bots, coding websites on discord and we have had many projects so far Ghost Bot is our Approved Bot. There is a link for you to add.
 
 👻 [Ghost Bot İnvite](http://www.ghost-bot.gq/davet)
 
