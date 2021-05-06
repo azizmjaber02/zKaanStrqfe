@@ -34,6 +34,8 @@ Hello, I'm a Teen Developer. I know JavaScript, Python, Dbd.js languages.
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchexDev&layout=compact&theme=material-palenight&langs_count=12" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArchexDev&show_icons=true&include_all_commits=true&theme=material-palenight" /> <br>
 	<center> 
+ ---------------------------------------------------------------------------------------
+ 🌕 Profile Wiews
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=favixl" alt="Kaan Wiews" /> </p>
 	  </center>
   </a>
