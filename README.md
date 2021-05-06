@@ -7,8 +7,9 @@
 
 ## 🕊 Discord:
 
-[Ghost Development](https://discord.gg/KMJCshWX4D)
-[Archex Development](https://discord.gg/qDsQzjb5gN)
+**[Ghost Development](https://discord.gg/KMJCshWX4D)**
+
+**[Archex Development](https://discord.gg/qDsQzjb5gN)**
 
 
 ### Languages and Tools;
