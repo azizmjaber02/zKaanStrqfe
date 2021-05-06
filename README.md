@@ -1,5 +1,5 @@
 
-### 🔧 About me;
+### 🔧 About me
 	
 😉 Hello, I'm a Teen Developer. I know JavaScript, Python, Dbd.js languages.
 
@@ -14,7 +14,7 @@ Note : This profile picture and only account.!
 **[Archex Development](https://discord.gg/qDsQzjb5gN)**
 
 
-### 🛠️ Languages and Tools;
+### 🛠️ Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
@@ -25,7 +25,7 @@ Note : This profile picture and only account.!
 <img align="left" alt="php" width="26px" src="https://cdn.discordapp.com/emojis/818512225840791585.png?v=1" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
-## 🍁 Statistics;
+## 🍁 Statistics
 <p align="center">
   <a href="https://github.com/ArchexDev">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchexDev&layout=compact&theme=material-palenight&langs_count=12" />
