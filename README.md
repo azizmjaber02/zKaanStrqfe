@@ -1,4 +1,4 @@
-<img align="left" alt="Code" width="26px" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+<img align="left" alt="Code" width="500px" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 
 
 ### 🔧 About me
