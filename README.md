@@ -13,9 +13,6 @@ Note : This profile picture and only account.!
 
 **[Archex Development](https://discord.gg/qDsQzjb5gN)**
 
-
-
-<br/>
 	
 ## 👻 Ghost Bot	
 
