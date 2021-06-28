@@ -1,11 +1,7 @@
 
 ### 🔧 Hakkımda
 	
-😉 Merhaba ben Kaan  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/>
-<strong/> Discordda bot kodluyorum. <strong/>
-
-<br> Verified Bot Developer! <br/>
+😉 Merhaba ben Kaan  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Discordda bot kodluyorum. <strong/>
 
 ## 🕊 Discord:
 
