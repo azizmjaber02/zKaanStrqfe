@@ -1,7 +1,7 @@
 
-### 🔧 Hakkımda
+### 🔧 About Me
 	
-😉 Merhaba ben Kaan  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Discordda bot kodluyorum. <strong/>
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Merhaba ben Kaan! Discordda bot kodluyorum. <strong/>
 
 ## 🕊 Discord:
 
