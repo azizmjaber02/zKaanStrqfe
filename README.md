@@ -6,4 +6,12 @@
    <a href="https://github.com/zkaanstrqfe" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <div align="center">
 <img src="https://lanyard-profile-readme.vercel.app/api/837022535266336819">
+
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px"> 👊 GitHub İstatistiklerim</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=zKaanStrqfe&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zKaanStrqfe&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=zKaanStrqfe&theme=nord" width="%100" height="150px" alt="stats" />
+</details>
+
 > Discord Server: https://discord.gg/delimine
