@@ -5,7 +5,7 @@
    <a href="https://www.youtube.com/c/kaanxd" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
    <a href="https://github.com/zkaanstrqfe" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <div align="center">
-<img src="https://lanyard-profile-readme.vercel.app/api/837022535266336819">
+<img src="https://lanyard-profile-readme.vercel.app/api/696407272145813505">
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Stats</summary>
